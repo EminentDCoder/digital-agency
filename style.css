@@ -171,3 +171,9 @@ footer{
     background-image: linear-gradient(to right, var(--main), var(--light)); 
     color: white;   
 }
+hr{
+    border: solid 2px rgb(0, 0, 0);
+}
+footer span{
+    padding: 0rem 0.2rem 0.5rem;
+}
